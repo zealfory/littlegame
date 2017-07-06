@@ -1,3 +1,4 @@
 # littlegame
-a Python game
+a Python game!
+
 Guess word game!!!
